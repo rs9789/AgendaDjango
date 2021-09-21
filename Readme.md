@@ -1,1 +1,1 @@
-#Um projeto do meu aprendizado de Django
+# Um projeto do meu aprendizado de Django
