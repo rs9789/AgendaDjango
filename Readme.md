@@ -10,3 +10,6 @@ Adicionado `models` Categoria e Contatos, e incluindo essas `models` no admin do
 
 ## Mostrando valores nas `views`:
 Além da adição dos `models`, foi adicionado os contatos de forma automatica nas `views` baseado nos dados de contatos contidos na base de dados.
+
+## Adicionando mais Campos na base, e criação de outra página:
+Adicionado o campo para mostrar ou não um contato e adição de uma pagina para mostrar um contato único ao clicar nele.
